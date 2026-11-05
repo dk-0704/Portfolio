@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.jpg",
+      "title": "Financial Reconciliation Platform",
+      "client": "Professional work · Citibank",
+      "slug": ""
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "HelpIQ — AI Customer Support Agent",
+      "client": "Personal project",
+      "slug": ""
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "MCP Tool Server",
+      "client": "Personal project",
+      "slug": ""
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "ReqMatch — AI Job Matching",
+      "client": "Personal project",
+      "slug": ""
+    },
+    {
+      "image": "/images/work/work-img-5.jpg",
+      "title": "CascadeEval — Cost-Efficient LLM Evaluation",
+      "client": "Personal project",
+      "slug": ""
+    },
+    {
+      "image": "/images/work/work-img-6.jpg",
+      "title": "Event-Driven ERP Sync Pipeline",
+      "client": "Professional work · Rlogical Techsoft",
+      "slug": ""
+    }
+  ]
+}

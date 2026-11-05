@@ -1,0 +1,117 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "devkishankoshti07@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:devkishankoshti07@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+1 (551) 259-1180",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+15512591180"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": ""
+      },
+      {
+        "platform": "github",
+        "icon": "/images/icon/github-icon.svg",
+        "link": ""
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "M.S. Computer Science — 2023 to 2025",
+        "description": "Pace University, New York, NY."
+      },
+      {
+        "title": "B.Tech Computer Engineering — 2017 to 2021",
+        "description": "Gujarat Technological University, Gujarat, India."
+      },
+      {
+        "title": "Claude Certified Architect — Foundations",
+        "description": "Anthropic certification in architecting applications built on Claude."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python-icon.svg",
+        "category": "Language"
+      },
+      {
+        "name": "FastAPI",
+        "icon": "/images/home/education-skill/fastapi-icon.svg",
+        "category": "Backend"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "/images/home/education-skill/postgres-icon.svg",
+        "category": "Database"
+      },
+      {
+        "name": "Kafka",
+        "icon": "/images/home/education-skill/kafka-icon.svg",
+        "category": "Messaging"
+      },
+      {
+        "name": "AWS",
+        "icon": "/images/home/education-skill/aws-icon.svg",
+        "category": "Cloud"
+      },
+      {
+        "name": "LangGraph",
+        "icon": "/images/home/education-skill/langgraph-icon.svg",
+        "category": "AI / LLM"
+      },
+      {
+        "name": "MCP",
+        "icon": "/images/home/education-skill/mcp-icon.svg",
+        "category": "AI tooling"
+      },
+      {
+        "name": "Redis",
+        "icon": "/images/home/education-skill/redis-icon.svg",
+        "category": "Caching"
+      },
+      {
+        "name": "Docker",
+        "icon": "/images/home/education-skill/docker-icon.svg",
+        "category": "Infrastructure"
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": ""
+      },
+      {
+        "title": "GitHub",
+        "href": ""
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "devkishankoshti07@gmail.com",
+        "link": "mailto:devkishankoshti07@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+1 (551) 259-1180",
+        "link": "tel:+15512591180"
+      }
+    ]
+  }
+}
